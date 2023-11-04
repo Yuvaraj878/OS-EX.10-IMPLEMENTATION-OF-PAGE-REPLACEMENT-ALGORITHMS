@@ -86,6 +86,8 @@ in the memory with new page,
 7. Stop the program.
 
 ## PROGRAM:
+### Developed by : YUVARAJ.S
+### Register Number : 212222240119
 ```c
 #include <stdio.h>
 int main() {
